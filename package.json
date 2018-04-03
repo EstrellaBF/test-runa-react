@@ -2,7 +2,7 @@
   "name": "runa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/joalbertg/test-runa-react/",
+  "homepage": "https://joalbertg.github.io/test-runa-react/",
   "dependencies": {
     "material-ui": "^0.20.0",
     "materialize-css": "^1.0.0-beta",
